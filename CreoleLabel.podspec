@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+CreoleLabel is used to put a top, bottom, left and right side padding of text.
                        DESC
 
   s.homepage         = 'https://github.com/NirmalsinhRathod/CreoleLabel'

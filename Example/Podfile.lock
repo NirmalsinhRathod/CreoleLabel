@@ -1,0 +1,16 @@
+PODS:
+  - CreoleLabel (0.1.0)
+
+DEPENDENCIES:
+  - CreoleLabel (from `../`)
+
+EXTERNAL SOURCES:
+  CreoleLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CreoleLabel: a345cbedbb01cb9348d78a7638e71cff22939109
+
+PODFILE CHECKSUM: bc50daa038acd742d29bf4821206ced95929b28b
+
+COCOAPODS: 1.2.1

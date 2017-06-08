@@ -1,0 +1,6 @@
+framework module Pods_CreoleLabel_Tests {
+  umbrella header "Pods-CreoleLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

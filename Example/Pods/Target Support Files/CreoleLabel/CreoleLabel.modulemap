@@ -1,0 +1,6 @@
+framework module CreoleLabel {
+  umbrella header "CreoleLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
