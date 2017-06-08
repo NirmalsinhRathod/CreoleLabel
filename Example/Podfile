@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CreoleLabel_Tests' do
+  pod 'CreoleLabel', :path => '../'
+  
+  
+end
