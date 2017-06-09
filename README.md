@@ -11,6 +11,21 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Swift 3.0 and iOS 10 and above
+
+## Manual Installation
+
+If you don't want use pod, then you just drag CreoleLabel.swift and write below code to implement label.
+
+```ruby
+   let yourLabel = CreoleLabel.init(frame: CGRect.init(x: X, y: Y, width: WIDTH, height: HEIGHT))
+   yourLabel._topInset     =   TOP_INSET_VALUE
+   yourLabel._bottomInset  =   BOTTOM_INSET_VALUE
+   yourLabel._leftInset    =   LEFT_INSET_VALUE
+   yourLabel._rightInset   =   RIGHT_INSET_VALUE
+
+```
+
 ## Installation
 
 CreoleLabel is available through [CocoaPods](http://cocoapods.org). To install
